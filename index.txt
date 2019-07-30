@@ -1,1 +1,2 @@
-ringtone_addon
+Ringtone Addon
+Test Addon
