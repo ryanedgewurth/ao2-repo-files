@@ -1,2 +1,3 @@
 Ringtone Addon
-Test Addon
+Test Addon 1
+Test Addon 2
